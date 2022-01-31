@@ -1,0 +1,8 @@
+*.gcno
+*.gcda
+*.a
+*.o
+covr
+mysh
+vgcore.*
+.vscode
